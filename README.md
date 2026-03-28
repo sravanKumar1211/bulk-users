@@ -1,5 +1,7 @@
 # Bulk Users API
 
+🚀 **Live API Base URL:** [https://bulk-users-api.onrender.com](https://bulk-users-api.onrender.com)
+
 A production-ready minimal Node.js + Express backend built with ES Modules. Features a MongoDB connection via Mongoose with optimized indexing, global error handling, and robust bulk APIs for users.
 
 ## Features
